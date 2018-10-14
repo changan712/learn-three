@@ -1,0 +1,22 @@
+{
+  "name": "learn-three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinshee/learn-three.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinshee/learn-three/issues"
+  },
+  "homepage": "https://github.com/tinshee/learn-three#readme",
+  "dependencies": {
+    "three": "^0.97.0"
+  }
+}
